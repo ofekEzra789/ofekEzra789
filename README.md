@@ -5,12 +5,14 @@ I am a recent Computer Science graduate with a strong passion for technology and
 
 ## Objective
 
-My background in computer science has sparked a deep interest in cybersecurity, and I am now eager to pursue a career in this field — particularly within a Security Operations Center (SOC) or as a Malware Analyst.
+My background in computer science has sparked a deep interest in cybersecurity, and I am now eager to pursue a career in this field — particularly in Cloud Security and Penetration Testing.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| AWS Security Assessment, Enumeration & AI-Powered Analysis    | <a href="https://github.com/ofekEzra789/aws-scanner-pacu-cloudgoat">AWS Pacu Scanner</a> |
+| Cloud Attack Chains (SSRF, IAM Exploitation, EC2, S3) | <a href="">CloudGoat EC2 SSRF Walkthrough</a> |
 | SIEM Deployment, Log Correlation & Network Monitoring    | <a href="https://github.com/ofekEzra789/OpenSearch-SIEM-Project">OpenSearch SIEM Project</a>|
 
 ## Tools
@@ -40,7 +42,7 @@ My background in computer science has sparked a deep interest in cybersecurity, 
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ## Certifications
@@ -50,6 +52,7 @@ My background in computer science has sparked a deep interest in cybersecurity, 
 </div>
 
 ## Projects
+- <a href="https://github.com/ofekEzra789/aws-scanner-pacu-cloudgoat">AWS Pacu Scanner</a>
 - <a href="https://github.com/ofekEzra789/OpenSearch-SIEM-Project">OpenSearch SIEM Project</a>
 
 

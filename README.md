@@ -12,7 +12,7 @@ My background in computer science has sparked a deep interest in cybersecurity, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AWS Security Assessment, Enumeration & AI-Powered Analysis    | <a href="https://github.com/ofekEzra789/aws-scanner-pacu-cloudgoat">AWS Pacu Scanner</a> |
-| Cloud Attack Chains (SSRF, IAM Exploitation, EC2, S3) | <a href="">CloudGoat EC2 SSRF Walkthrough</a> |
+| Cloud Attack Chains (SSRF, IAM Exploitation, EC2, S3) | <a href="https://medium.com/@ofekezra789/my-journey-through-cloudgoats-ec2-ssrf-scenario-b293195cb307">CloudGoat EC2 SSRF Walkthrough</a> |
 | SOC Lab with Offensive Testing (Wazuh + Kali + Vagrant)    | <a href="https://github.com/ofekEzra789/wazuh-docker-vagrant-project">Wazuh Attack Lab</a>|
 
 ## Tools

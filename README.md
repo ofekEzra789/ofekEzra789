@@ -11,6 +11,7 @@ My background in computer science has sparked a deep interest in cybersecurity, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Network MITM Attacks (ARP Spoofing, DHCPv4, DHCPv6, MITM6)  | <a href="https://github.com/ofekEzra789/mitm-toolkit/tree/main">MITM Toolkit</a> | 
 | AWS Security Assessment, Enumeration & AI-Powered Analysis    | <a href="https://github.com/ofekEzra789/aws-scanner-pacu-cloudgoat">AWS Pacu Scanner</a> |
 | Cloud Attack Chains (SSRF, IAM Exploitation, EC2, S3) | <a href="https://medium.com/@ofekezra789/my-journey-through-cloudgoats-ec2-ssrf-scenario-b293195cb307">CloudGoat EC2 SSRF Walkthrough</a> |
 | SOC Lab with Offensive Testing (Wazuh + Kali + Vagrant)    | <a href="https://github.com/ofekEzra789/wazuh-docker-vagrant-project">Wazuh Attack Lab</a>|
@@ -63,6 +64,7 @@ My background in computer science has sparked a deep interest in cybersecurity, 
 </div>
 
 ## Projects
+- <a href="https://github.com/ofekEzra789/mitm-toolkit/tree/main">MITM Toolkit</a>
 - <a href="https://github.com/ofekEzra789/aws-scanner-pacu-cloudgoat">AWS Pacu Scanner</a>
 - <a href="https://github.com/ofekEzra789/wazuh-docker-vagrant-project">Wazuh Attack Lab</a>
 

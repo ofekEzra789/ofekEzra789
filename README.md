@@ -16,6 +16,14 @@ My background in computer science has sparked a deep interest in cybersecurity, 
 | Cloud Attack Chains (SSRF, IAM Exploitation, EC2, S3) | <a href="https://medium.com/@ofekezra789/my-journey-through-cloudgoats-ec2-ssrf-scenario-b293195cb307">CloudGoat EC2 SSRF Walkthrough</a> |
 | SOC Lab with Offensive Testing (Wazuh + Kali + Vagrant)    | <a href="https://github.com/ofekEzra789/wazuh-docker-vagrant-project">Wazuh Attack Lab</a>|
 
+## Certifications
+<div>
+    <a href="https://www.credly.com/earner/earned/badge/4e553524-f10c-46c0-877e-a4f542fb8772"><img src="https://img.shields.io/badge/-HTB_CPTS-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+    <a href="https://www.credly.com/badges/b0538202-8df6-4479-b406-74720a48e229/public_url"><img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+    <a href="https://certified.tcm-sec.com/56efbe58-bc12-4347-9792-bca678df0121?key=cbb2a8fd5eefd921c8d83a795c43a87cd6ad04f418c7458812e28c2c31b359e4#acc.o2KrhwIY"><img src="https://img.shields.io/badge/-TCM-FF0000?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://app.letsdefend.io/certificate/show/5373be2c-6c7f-44b3-b8df-ac2b81a6c533"><img src="https://img.shields.io/badge/-LETSDEFEND-0000FF?&style=for-the-badge&logoColor=white" /></a>
+</div>
+
 ## Tools
 
 ### Cloud Security & Offensive Tools
@@ -56,12 +64,6 @@ My background in computer science has sparked a deep interest in cybersecurity, 
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-    <a href="https://www.credly.com/badges/b0538202-8df6-4479-b406-74720a48e229/public_url"><img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-    <a href="https://certified.tcm-sec.com/56efbe58-bc12-4347-9792-bca678df0121?key=cbb2a8fd5eefd921c8d83a795c43a87cd6ad04f418c7458812e28c2c31b359e4#acc.o2KrhwIY"><img src="https://img.shields.io/badge/-TCM-FF0000?&style=for-the-badge&logoColor=white" /></a>
-    <a href="https://app.letsdefend.io/certificate/show/5373be2c-6c7f-44b3-b8df-ac2b81a6c533"><img src="https://img.shields.io/badge/-LETSDEFEND-0000FF?&style=for-the-badge&logoColor=white" /></a>
-</div>
 
 ## Projects
 - <a href="https://github.com/ofekEzra789/mitm-toolkit/tree/main">MITM Toolkit</a>

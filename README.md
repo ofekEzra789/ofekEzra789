@@ -1,5 +1,6 @@
 # Hello, I'm Ofek
 <a href="https://linkedin.com/in/ofek-ezra-9b4940194/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@ofekezra789"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 I am a recent Computer Science graduate with a strong passion for technology and a drive to solve complex challenges.
 
